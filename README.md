@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Welcome+to+my+Github+Profile;I'm+a+Computer+Science+Freshman+💻;Focus+on+Frontend+%26+IoT" alt="Typing SVG" />
-</div>
-
 # Hi there 👋!
 ### I'm a passionate Computer Science freshman focused on Frontent & IoT.
 
@@ -18,8 +14,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jadynzhang417&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadynzhang417&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
